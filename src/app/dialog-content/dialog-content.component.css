@@ -1,0 +1,18 @@
+.dialog-content {
+  font-size: 24px;
+  text-align: center;
+}
+
+.dialog-title {
+  font-size: 24px;
+}
+
+.dialog-actions {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.dialog-actions button {
+  font-size: 24px;
+}
